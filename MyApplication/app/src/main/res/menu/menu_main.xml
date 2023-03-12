@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Simple Calculator" android:id="@+id/simpleCalc" />
+    <item android:title="Triangle Area" android:id="@+id/triangleArea"/>
+    <item android:title="Deposit" android:id="@+id/deposit"/>
+</menu>
